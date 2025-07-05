@@ -1,4 +1,4 @@
-# ssl-connection-test
+# https-connection-test
 
 A step-by-step guide to verify that your system can reach a domain service over a secure HTTPS connection.
 
